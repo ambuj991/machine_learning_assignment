@@ -1,0 +1,11 @@
+tensorflow==2.16.1
+transformers==4.41.2
+tokenizers==0.19.1
+numpy==1.26.4
+absl-py==2.1.0
+requests==2.32.3
+huggingface-hub==0.23.3
+safetensors==0.4.3
+tf_keras==2.16.0
+sentencepiece==0.2.0
+torch==2.3.1
