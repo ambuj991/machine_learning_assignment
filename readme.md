@@ -44,3 +44,4 @@ docker pull ambujhakhu/multitask-model:latest
 
 git clone https://github.com/ambujhakhu/multitask-model.git
 cd multitask-model
+ttps://github.com/ambuj991/machine_learning_assignment.git
