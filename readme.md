@@ -12,6 +12,16 @@ This repository contains resources for the Multitask Model Docker container.
 
 The Docker image is available on Docker Hub: [ambujhakhu/multitask-model](https://hub.docker.com/r/ambujhakhu/multitask-model)
 
+## pull docker image: 
+docker pull ambujhakhu/multitask-model 
+
+## To run scripts: 
+docker run -it --rm ambujhakhu/multitask-model python <script>
+
+## script -> 
+main.py, task1.py, task2.py, task3.py, task4.py
+
+
 ### Pull the Docker Image
 
 ```sh
